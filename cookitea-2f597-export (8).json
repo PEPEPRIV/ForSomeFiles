@@ -1,0 +1,136 @@
+{
+  "chats" : {
+    "123" : {
+      "lastMessage" : "ghopper: Relay malfunction found. Cause: moth.",
+      "timestamp" : 1459361875666,
+      "title" : "Historical Tech Pioneers"
+    }
+  },
+  "user_contacts" : {
+    "userId" : {
+      "second_user_id" : "id"
+    }
+  },
+  "members" : {
+    "123" : {
+      "alovelace" : true,
+      "eclarke" : true,
+      "ghopper" : true
+    }
+  },
+  "messages" : {
+    "123" : {
+      "1" : {
+        "messageText" : "dfdfdfdfdfd",
+        "messageTime" : 917364317,
+        "messageType" : "simpleText",
+        "messageUser" : "Bob",
+        "messageUserId" : "1232"
+      },
+      "-KzVMDu3EGOhLkq-xrP7" : {
+        "messageText" : "лаладаллаа",
+        "messageTime" : 1511297708297,
+        "messageType" : "simpleText",
+        "messageUser" : "Женя",
+        "messageUserId" : "PIFS7SUv8KR2fAzyab1HvFcz6k73"
+      },
+      "-KzVTPgo52x8mYa06pQA" : {
+        "messageText" : "привет",
+        "messageTime" : 1511299592697,
+        "messageType" : "simpleText",
+        "messageUser" : "Евгений",
+        "messageUserId" : "vD7qQigH0oYC4Mw43O2js8nrqIU2"
+      },
+      "-KzVTYAY6oAbbpLnpZm3" : {
+        "messageText" : "как дела",
+        "messageTime" : 1511299627432,
+        "messageType" : "simpleText",
+        "messageUser" : "Евгений",
+        "messageUserId" : "vD7qQigH0oYC4Mw43O2js8nrqIU2"
+      },
+      "-KzXCEqtIBCUbIvBXPAP" : {
+        "messageText" : "привет ",
+        "messageTime" : 1511328894732,
+        "messageType" : "simpleText",
+        "messageUser" : "Леонид Шарипков",
+        "messageUserId" : "wPiUbTIL5zUb7lXbwF4NEQj1c1h1"
+      },
+      "-KzXCIubL95TiRcS3CJ4" : {
+        "messageText" : "дааддадс",
+        "messageTime" : 1511328662441,
+        "messageType" : "simpleText",
+        "messageUser" : "Евгений",
+        "messageUserId" : "vD7qQigH0oYC4Mw43O2js8nrqIU2"
+      },
+      "-KzXCKMUBBM5GQDHL7aM" : {
+        "messageText" : "у нас информатика ",
+        "messageTime" : 1511328917298,
+        "messageType" : "simpleText",
+        "messageUser" : "Леонид Шарипков",
+        "messageUserId" : "wPiUbTIL5zUb7lXbwF4NEQj1c1h1"
+      },
+      "-KzXCNtIIPbWYCXf7WP0" : {
+        "messageText" : "и мы right now будем разбирать 22 номер ",
+        "messageTime" : 1511328931750,
+        "messageType" : "simpleText",
+        "messageUser" : "Леонид Шарипков",
+        "messageUserId" : "wPiUbTIL5zUb7lXbwF4NEQj1c1h1"
+      },
+      "-KzXCOZTN8Ttq27gpzhk" : {
+        "messageText" : "который",
+        "messageTime" : 1511328934513,
+        "messageType" : "simpleText",
+        "messageUser" : "Леонид Шарипков",
+        "messageUserId" : "wPiUbTIL5zUb7lXbwF4NEQj1c1h1"
+      },
+      "-KzXCQQaQAQ41nXirm-M" : {
+        "messageText" : "она нихуа не объяснит ",
+        "messageTime" : 1511328942137,
+        "messageType" : "simpleText",
+        "messageUser" : "Леонид Шарипков",
+        "messageUserId" : "wPiUbTIL5zUb7lXbwF4NEQj1c1h1"
+      },
+      "-KzXCRZhwrXtX5e2jaDU" : {
+        "messageText" : "пизда какая то",
+        "messageTime" : 1511328697902,
+        "messageType" : "simpleText",
+        "messageUser" : "Евгений",
+        "messageUserId" : "vD7qQigH0oYC4Mw43O2js8nrqIU2"
+      },
+      "-KzYaHIgDF3sNB8lR9S2" : {
+        "messageText" : "почему так стало",
+        "messageTime" : 1511351985883,
+        "messageType" : "simpleText",
+        "messageUser" : "Планшет",
+        "messageUserId" : "MOIVk0iUQIXo6pobhTpVA4rifWj2"
+      },
+      "-KzYcvoCwr58YMp_1Qzh" : {
+        "messageText" : "ура",
+        "messageTime" : 1511352680194,
+        "messageType" : "simpleText",
+        "messageUser" : "Планшет",
+        "messageUserId" : "MOIVk0iUQIXo6pobhTpVA4rifWj2"
+      },
+      "-KzYcyU4cqSe5sZnCaEP" : {
+        "messageText" : "все красиво )0))0))0)0)0))0)0)))0)0)0)0)0)0))0)0)0))0)0)0)0)0)0)0)0)0)0)0)0)",
+        "messageTime" : 1511352691129,
+        "messageType" : "simpleText",
+        "messageUser" : "Планшет",
+        "messageUserId" : "MOIVk0iUQIXo6pobhTpVA4rifWj2"
+      }
+    }
+  },
+  "users" : {
+    "wPiUbTIL5zUb7lXbwF4NEQj1c1h1" : {
+      "age" : "null",
+      "description" : "null",
+      "name" : "Леонид Шарипков",
+      "status" : 1511328986809
+    }
+  },
+  "user_dialogs" : {
+    "userId" : {
+      "chatId" : "id"
+    }
+  }
+}
